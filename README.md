@@ -1,0 +1,2 @@
+# Density-Estimation-and-Classification
+1. Feature Extraction from the provided dataset 2. Parameter Estimation for the Normal Distribution 3. Calculating the Model Parameters for Naïve-Bayes Classifier and Logistic Regression 4. Train the Naïve Bayes Classifier using the training data for classifying the test data 5. Train the Logistic Regression Classifier for classifying the test data 6. Calculating the classification accuracy for Naïve-Bayes and Logistic Regression Classifier
